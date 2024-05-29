@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="black_33">#3E000000</color>
+    <color name="colorAccent">#ff4b4b</color>
+    <color name="colorIconButtons">#ffa9abae</color>
+    <color name="colorIconButtonsSelected">#ffffffff</color>
+    <color name="colorMenuDisabled">#88ffffff</color>
+    <color name="colorPlanoDeFundoTransparente">#aaeeeeee</color>
+    <color name="colorPrimary">#ff4b4b</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorPrimary_trans">#fe7171</color>
+    <color name="colorTextButtons">#ff727376</color>
+    <color name="divider">#333333</color>
+    <color name="color_dialog_hint_text">#AFAFAF</color>
+    <color name="transparent">#00000000</color>
+    <color name="white">#ffffffff</color>
+    <color name="windowBackground">#1c1c1c</color>
+    <color name="overlay">#cc000000</color>
+    <color name="black20">#202020</color>
+    <color name="colorToolsUnSelected">#FFFFFF</color>
+</resources>
